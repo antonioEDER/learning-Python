@@ -84,10 +84,12 @@ print(nome, idade, peso)
 ```
 
 ### Ordem de precedência
+```
 1. ()
 2. **
 3. * / // %
 4. + -
+```
 
 ### Exemplo Ordem de precedência
 5+3*2 = 11
