@@ -97,3 +97,7 @@ print(nome, idade, peso)
 3*5+4**2=31
 3*(5+4)**2
 ```
+
+### Modulos
+sudo python -m pip install emoji --upgrade
+sudo python -m pip install pygame --upgrade
